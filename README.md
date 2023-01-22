@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://ethandotstudio.github.io/FM-Challenge--equalizer-landing-page)
+- [Live Site](https://ethandotstudio.github.io/Frontend-Mentor__Equalizer-Landing-Page)
 
 ## My process
 
